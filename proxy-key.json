@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "private-callproxy-db",
+  "private_key_id": "aa24a545255b36f075f4e02dbd03fddaa0c6f9a6",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCglnSrrIeh3oe6\nNQFFZZAAYRcC7jovs32XUn/a3dbvyimA9DxfR8dRv1q9ZxTWpy6g3sYw1VSAp1Jf\nEQ1louBc0OlbD+xlpw2OZG2EJRFfFjHsLRVkGcAK8UpHH5n4KEqYBx41YbOae1V1\nPfBt0NW0Krf2R+/PDgPqSuhKCLrkP7lFusis3nYGh4iccNUuJ1a/XWo9U2Bqv0TY\nAC7iZZOhXpJtoxnskvPzvTT7CNCSAep3YRlPuxqnC3eItavNfveaAtHFuttIQZjQ\nQsXFJ2qIS/GuqHvn0vC2t9fSzt1Y6cYyCPf+W5FGc73lfa5M9q42euwzCVCmcdXN\nc9cMC0ZNAgMBAAECggEADeuc53jINRbmKxUHLC3WosHHzeA6uQHVJDXpkV5jkFu0\n51HEnfnJ5GMzCXITE1xgpV9KTNdhQNnAQS9oOuQ4kLMnV1Z1BobJnQtFlwvjipuQ\n7kkmLoww4oHyD2JE5YcQmEcdrkDu4bhJOyWIXuyYacq+MaIgvpEXc8rUgf5pvPlJ\n3AhBfys8NdoxcebtscUW6wBD5960AOLQxDU40NIN1jHlWxQxaszmDbsYSoPVinJ8\nPMsGvBTVKGuTlBP3x5xVF0CYoWVbaR7UQ+2vUpXtUobtklnAmMcUmedh7AFxt7UE\n8A5IH3l04FMU6RnzMSJ9H9MGr1Zj1shwTiMpLxAsfQKBgQDdONlEgXTWasYk6Ods\n8fHbGqbxpRZAKET7vge3utlHc20nWQtqGkybVo+6kovr4rf5ENnWcGKjaE0yrkaL\n7Gxfx+anDQCJfGD6oZU1u0xjKoh7W5IN7Mi3PnMb7CIpyLUey84k2cCNIqPr+fs6\nB0i29QTWvkib9SvlWZpCfj+KxwKBgQC51VvWTKK+4LpYqB59+AoDAc26PqCKIUZY\nGzASTX8cFil/C1R57UxNDLNbml3MM/8nSF6i2cb+STWvQujMtnvISBkEjdQxsL0u\ncDN6ID2KHf0jQwfgdeUTcBFe3+YUFJDprtDI4TYD7Kg+mjkf0j5srKh8XMaw8cpI\nqK/tlldySwKBgEDnmPc8dCcklJXnr16LbcY2/5wOL4ULS5IAowsIyw7nkrLksTCk\nHq3Eq861iE/g6NEuXHtJ5ebDh0LDVvdemj1PzSBd9DZiQ6HFHp3xIexGYlyu9R8Y\nxZrdu7AJi8xukpVCfmzZZmECNM3bPhY8ZN0o7g6DLZJ0UDiuHVA88i+pAoGAJgKz\nJzFDtKFI3Gt+2StL+PN8fhTjR32o4sqk2YmKb1dFI5xQqiPUkIoBgcIgX21fSkyu\nNscuwcJ9vZyE+6JzzTKaE2ljNsq812vRy7Aehkq+BWFnkgzrTz+D/hD0AbV3MqU0\nRXJzVvgoLa3j81NQu2/RgqaDaZv7UUNXwNQYjOMCgYEAkv7h+cMQ//jzk9NLYaIY\nEjEP97LyOTh5/4iNbaHap/mu/9niJ3FQ3pFiolTmSEeMDuQKplzm6/39jwx1MyLI\n7yI3i85aE1Rev/yhmP5APTZfT2BmYGsHDoDTSA/OvF2lBQ05Y4GPMF1x5cq/dT/k\n0SPVBYK23X280UhvOR8VEDM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-rtj3c@private-callproxy-db.iam.gserviceaccount.com",
+  "client_id": "111259944614355248246",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-rtj3c%40private-callproxy-db.iam.gserviceaccount.com"
+}
